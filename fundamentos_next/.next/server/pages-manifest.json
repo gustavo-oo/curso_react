@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/client/[code]": "pages/api/client/[code].js",
+  "/api/client": "pages/api/client.js",
+  "/api/hello": "pages/api/hello.js",
+  "/client/[code]": "pages/client/[code].html",
+  "/example": "pages/example.html",
+  "/": "pages/index.html",
+  "/integration": "pages/integration.html",
+  "/jsx": "pages/jsx.html",
+  "/navegation": "pages/navegation.html",
+  "/state": "pages/state.html",
+  "/style": "pages/style.html",
+  "/_error": "pages/_error.js",
+  "/server-side": "pages/server-side.js",
+  "/static": "pages/static.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
